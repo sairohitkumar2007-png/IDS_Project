@@ -1,20 +1,9 @@
-# executables
-*.exe
-*.out
-
-# python cache
-__pycache__/
-*.pyc
-
-# vscode
-.vscode/
-
-# logs
-*.log
-
-# temporary files
-*.tmp
-
-# system files
-.DS_Store
-Thumbs.db
+ucrt64/
+usr/
+var/
+etc/
+clang64/
+home/
+installer.dat
+installerResources/
+uninstall.dat

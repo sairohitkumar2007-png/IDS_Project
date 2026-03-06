@@ -1,0 +1,2 @@
+[ALERT] Pattern: delete at line 2
+[ALERT] Pattern: malware at line 4
